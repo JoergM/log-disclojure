@@ -7,9 +7,6 @@ Later it should enable statistics maybe even in realtime.
 
 Main purpose is to learn Clojure in a real world project.
 
-## Usage
-
-
 ## License
 
 Copyright © 2013 Hypoport Functional CoP
